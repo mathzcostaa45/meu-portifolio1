@@ -22,7 +22,10 @@ main {
     flex-direction: column;
     background: rgba(red, green, blue, alpha);
     backdrop-filter: blur(30px);
-    border: 2px solid#ffffff30; /define a borda de um elemento/
+    border: 2px solid#ffffff30;
+    /define a borda de um elemento/
+    {
+    
     width: 400px;
     height: 550px;
     align-items: center;
